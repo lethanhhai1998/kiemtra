@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.wrap {
+	width: 100vw;
+	height: 80vh;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-repeat: none;
+	background-size: cover;
+}
+#o1{
+	background: url(http://www.flanderstoday.eu/sites/default/files/webimages/planckendaelzeebrajong21nov18.jpg);
+}
+#o2{
+	background-image: url(https://animals.sandiegozoo.org/sites/default/files/2016-09/animals_hero_lions_0.jpg); 
+}
+#o3{
+	background-image: url(https://watermark.lovepik.com/photo/00036/5424.jpg_wh1200.jpg); 
+}
+#o4{
+	background-image: url(http://123anhdep.net/wp-content/uploads/2016/05/bst-hinh-anh-loai-bao-dom-dung-manh-oai-hung-dep-an-tuong-giua-thien-nhien-hoang-da-6.jpg); 
+}
+#o5{
+	background-image: url("http://kyluc.vn/Userfiles/Upload/images/hinh1(19).JPG"); 
+}
+#o6{
+	background-image: url(https://i.ytimg.com/vi/6tuDaXF2bPk/maxresdefault.jpg); 
+}
+.wrap a {
+	text-decoration: none;
+	position: absolute;
+	top: 10px;
+	left: 15px;
+	font-family: "Luna";
+	color: #fff;
+	font-size: 20px;
+}
+.wrap .main {
+	width: 100vw;
+	padding: 70px;
+	position: absolute;
+	top: 80vh;
+	left: 0;
+}
+.wrap .main .content {
+	width: 60vw;
+	padding: 20px;
+	position: absolute;
+	top: -20vh;
+	left: 20vw;
+	background: #fff;
+}
+.content h1 {
+	padding: 40px;
+}
+.content h2 {
+	padding: 30px;
+}
+.content p {
+	padding: 20px;
+}
+.content img {
+	margin-left: 30%;
+}
